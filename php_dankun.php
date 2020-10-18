@@ -9,3 +9,4 @@ elseif($t >= 12 and $t < 18):
 else:
     print $data[2];
 endif;
+    print '編集しました';
